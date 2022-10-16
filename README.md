@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, seja bem-vindo ^~^
 
-<!--
-**ZG-Aura/ZG-Aura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📘 Atualmente, estudante de ADS na FATEC-SP
+- 📈 Tentando aprender as tecnologias para Análise de Dados
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/ZG-Aura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZG-Aura&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZG-Aura&layout=compact&langs_count=7&theme=aura_dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" alt="Rafa-Python" height="50" width="925" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+##
+
+![Snake animation](https://github.com/ZG-Aura/ZG-Aura/blob/output/github-contribution-grid-snake.svg)
